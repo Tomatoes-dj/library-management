@@ -25,4 +25,5 @@
 · 生命周期（图书数据处理）  
 
 
-https://github.com/Tomatoes-dj/library-management/blob/master/%E5%9B%BE%E4%B9%A6%E7%AE%A1%E7%90%86demo.png
+
+![image](https://github.com/Tomatoes-dj/library-management/blob/master/%E5%9B%BE%E4%B9%A6%E7%AE%A1%E7%90%86demo.png)
