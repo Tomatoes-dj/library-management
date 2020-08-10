@@ -1,4 +1,9 @@
 # library-management
+
+demo图：
+  ![image](https://github.com/Tomatoes-dj/library-management/blob/master/%E5%9B%BE%E4%B9%A6%E7%AE%A1%E7%90%86demo.png)
+
+
 此案例为熟悉Vue常用特性建立的。
 主要逻辑如下： 
 1. 图书列表  
@@ -26,4 +31,4 @@
 
 
 
-![image](https://github.com/Tomatoes-dj/library-management/blob/master/%E5%9B%BE%E4%B9%A6%E7%AE%A1%E7%90%86demo.png)
+
